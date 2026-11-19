@@ -1,0 +1,39 @@
+body{
+    font-family: Times New Roman, Georgia;
+    margin: 0;
+    padding: 20px;
+    background-color: bisque;
+}
+
+h1{
+    font-size: 26px;
+    color:blueviolet;
+}
+
+h2{
+    font-size: 21px;
+    color:blue;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.6;
+}
+
+main{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color:beige;
+}
+
+img{
+    width: 200px;
+    height:auto;
+}
+
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
